@@ -1,13 +1,9 @@
-GiffsApp
+ # GiffsApp
 Una simple aplicación que busca y despliega imágenes con la API de Giphy
 
-Tecnologías
-[]: # Fuente appi : (https://developers.giphy.com)
-[]: # Title: GiffsApp
-[]: # Description: Tecnologías utilizadas en el proyecto
 
+ > Fuente appi : (https://developers.giphy.com)
 
-# GifsApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
 
