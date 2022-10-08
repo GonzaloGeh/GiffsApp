@@ -1,0 +1,15 @@
+<!--Start Sidebar-->
+<div class="bg-dark border-right p-3" id="sidebar">
+  <h3 style="color: aqua">
+    Giffs app
+  </h3>
+  <hr class="text-white" />
+  <div class="list-group list-reset">
+    <a *ngFor="let item of historial"
+        href="#"
+       class="list-group-item list-group-item-action">
+      {{item | titlecase}}
+    </a>
+  </div>
+</div>
+  <!--  End Sidebar-->
