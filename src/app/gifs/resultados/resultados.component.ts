@@ -12,6 +12,7 @@ export class ResultadosComponent {
 
   get resultados() {
     return this.gifService.resultados;
+
   }
 
 
